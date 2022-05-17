@@ -1,7 +1,3 @@
-# Workshop_Tuebingen
-DZNE_Tuebingen_workshop
-
-
 # Introduction to Bioimage analysis for the DZNE Tuebingen workshop (30th and 31st May 2022)
 
 
