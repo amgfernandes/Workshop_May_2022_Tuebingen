@@ -14,4 +14,4 @@
   
 <img src="images/Download_repository.png" alt="Download repository" width="600"/>
 
-You can use `Download zip` or Git: `git clone https://github.com/amgfernandes/Workshop_May_2022_Tuebingen.git`
+You can use `Download ZIP` or Git: `git clone https://github.com/amgfernandes/Workshop_May_2022_Tuebingen.git`
