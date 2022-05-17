@@ -9,3 +9,6 @@
 - Cell Analyst: https://cellprofileranalyst.org/releases
 - Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
+
+### Download or use Git to clone this repository:
+
