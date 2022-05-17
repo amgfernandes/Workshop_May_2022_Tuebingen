@@ -6,7 +6,7 @@
 
 - FIJI: https://imagej.net/software/fiji/
 - CellProfiler: https://cellprofiler.org/releases
-- Cell Analyst: https://cellprofileranalyst.org/releases
+- CellProfiler Analyst: https://cellprofileranalyst.org/releases
 - Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
 
