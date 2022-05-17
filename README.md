@@ -10,6 +10,8 @@
 - Python/Anaconda installation (optional): https://docs.anaconda.com/anaconda/install/
 
 
-### Download or use Git to clone this repository:
-![Download repository](images/Download_repository.png)
+### Download or use Git to clone this repository: 
+  
+<img src="images/Download_repository.png" alt="Download repository" width="600"/>
 
+You can use `Download zip` or Git: `git clone https://github.com/amgfernandes/Workshop_May_2022_Tuebingen.git`
