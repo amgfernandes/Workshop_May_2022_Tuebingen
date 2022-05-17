@@ -15,3 +15,9 @@
 <img src="images/Download_repository.png" alt="Download repository" width="600"/>
 
 You can use `Download ZIP` or Git: `git clone https://github.com/amgfernandes/Workshop_May_2022_Tuebingen.git`
+
+
+### Download Demo data:
+
+https://nextcloud.dzne.de/index.php/s/eLzfWcooJyD2kmB
+password will be sent by email
