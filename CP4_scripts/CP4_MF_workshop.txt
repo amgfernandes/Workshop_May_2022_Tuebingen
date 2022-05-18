@@ -1,0 +1,8 @@
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/1h_stimulation/A_1.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/1h_stimulation/B_1.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/1h_stimulation/C_1.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/1h_stimulation/D_1.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/4h_stimulation/A_4.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/4h_stimulation/B_4.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/4h_stimulation/C_4.tif
+file:/Users/fernandesm/Nextcloud/Retreat_DZNE_Tuebingen_2022_Constance/example_data/Demo_stimulation/4h_stimulation/D_4.tif
