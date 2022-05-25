@@ -97,6 +97,9 @@ df_together = pd.concat([df_1h,df_4h])
 df_together
 
 
+# # Visualization with seaborn
+# https://seaborn.pydata.org/index.html
+
 # In[10]:
 
 
@@ -203,43 +206,67 @@ df_together.head()
 # In[20]:
 
 
-sns.pairplot(df_together, height = 1.5, diag_kind="kde")
+sns.kdeplot(data = df_1h['Mean'])
+sns.kdeplot(data = df_4h['Mean'])
 
 
 # In[21]:
 
 
 sns.kdeplot(data = df_1h['Mean'])
-sns.kdeplot(data = df_4h['Mean'])
+sns.rugplot(data = df_1h['Mean'], height= 0.1)
 
 
 # In[22]:
 
 
-sns.kdeplot(data = df_1h['Mean'])
-sns.rugplot(data = df_1h['Mean'], height= 0.1)
+sns.barplot(data = df_together, x='Group', y='Mean', palette="Set3", ci="sd", capsize=.2)
 
 
 # In[23]:
 
 
-sns.barplot(data = df_together, x='Group', y='Mean', palette="Set3", ci="sd", capsize=.2)
+sns.histplot(df_together.Area)
 
 
 # In[24]:
 
 
-sns.histplot(df_together.Area)
+df_together.plot(kind='hexbin', x='X', y='Area')
 
+
+# # Or use Lux to check your datasets
+# 
+# https://github.com/lux-org/lux
 
 # In[25]:
 
 
-df_together.plot(kind='hexbin', x='X', y='Area')
+import lux
+from lux.vis.VisList import VisList
 
 
-# In[ ]:
+# In[26]:
 
 
+df_lux = df_together.copy()
+df_lux
 
+
+# In[27]:
+
+
+VisList(["Group=?","Mean"],df_lux)
+
+
+# In[28]:
+
+
+df_lux.intent = ["Mean"]
+
+
+# In[29]:
+
+
+df_lux
 
